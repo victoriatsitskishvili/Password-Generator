@@ -10,3 +10,5 @@
 9. Use for loop to iterate over the password length from the options object, selecting random indices from the array of possible characters and concatenating those characters into the result variable
 10. Use a return fanction(getrandompassword)
 
+
+![Screenshot of a password] (https://github.com/victoriatsitskishvili/Password-Generator/blob/main/assets/images/Screen%20Shot%202021-11-04%20at%2010.35.13%20PM.png)
